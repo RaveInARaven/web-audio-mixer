@@ -1,7 +1,7 @@
 (function() {
 
     /**
-     *
+     *  
      * The focus when writing this code was on getting something done and not on beautiful code.
      * A rewrite using React could be beneficial...
     */
@@ -561,7 +561,7 @@
     //These sources could eventually be loaded from the server
     var sources = [
         //'Vox.mp3', 'Strings.mp3','Acous_Gtr.mp3','Bass_&_Drums.mp3'
-        'Acous_Gtr.mp3', 'Strings.mp3','Bass_&_Drums.mp3', 'Mellotron.mp3','Bck_vox.mp3','Stylophone.mp3','Vox.mp3','Flute_&_Cello.mp3'
+        'Alto_Sax_1-LTGTR.mp3','Alto_Sax_2-LTGTR.mp3','Bari_Sax-LTGTR.mp3','Bass-LTGTR.mp3','Drums-LTGTR.mp3','Flute-LTGTR.mp3','Guitar-LTGTR.mp3','Piano-LTGTR.mp3','Tenor_Sax_1-LTGTR.mp3','tenor_Sax_1-LTGTR.mp3','Trumpet_1-LTGTR.mp3','Trumpet_2-LTGTR.mp3','Trumpet_3-LTGTR.mp3','Trumpet_4-LTGTR.mp3','Trombone_1-LTGTR.mp3','Trombone_2-LTGTR.mp3','Trombone_3-LTGTR.mp3','Trombone_4-LTGTR.mp3','Tuba-LTGTR.mp3','Vibraphone-LTGTR.mp3'
 
     ];
 
